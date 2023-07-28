@@ -22,7 +22,6 @@ public class Main {
         System.out.println();
     }
 
-
     public static void task2() {
         System.out.println("Задача 2");
         int tenperature = 7;
